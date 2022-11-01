@@ -8,5 +8,6 @@ out:
 - [libmad](https://github.com/tenacityteam/libmad)
 
 You should also check out the project that is currently known under the name
-of [Saucedacity](https://github.com/saucedacity/saucedacity), which will
-include our work, such as our themes, our plugins and our UI/UX improvements.
+of [Saucedacity](https://github.com/tenacityteam/saucedacity), which includes
+some of our work, such as our themes and our plugins. Other improvements, like
+our UI/UX improvements, will also be coming soon!
