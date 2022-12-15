@@ -5,3 +5,7 @@ we also have some other actively maintained forks you may want to check out:
 
 - [libid3tag](https://github.com/tenacityteam/libid3tag)
 - [libmad](https://github.com/tenacityteam/libmad)
+
+---
+
+**We have moved to [Codeberg](https://codeberg.org/tenacityteam)!**
