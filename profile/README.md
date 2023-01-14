@@ -1,11 +1,8 @@
 # Tenacity
 
-Hey! Welcome to our GitHub organization. While we maintain an audio editor,
-we also have some other actively maintained forks you may want to check out:
-
-- [libid3tag](https://github.com/tenacityteam/libid3tag)
-- [libmad](https://github.com/tenacityteam/libmad)
-
----
-
-**We have moved to [Codeberg](https://codeberg.org/tenacityteam)!**
+Hey there! Welcome to our GitHub organization! We have moved to
+[Codeberg](https://codeberg.org/tenacityteam), so you should check us out there.
+You might be interested in
+[tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy) and
+[Saucedacity](https://github.com/tenacityteam/saucedacity), which are kept for
+historical reasons.
